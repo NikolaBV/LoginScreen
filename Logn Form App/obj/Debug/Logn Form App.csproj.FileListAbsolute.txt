@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Logn Form App\Logn Form App\bin\Debug\Logn Form App.exe.config
+C:\Users\User\source\repos\Logn Form App\Logn Form App\bin\Debug\Logn Form App.exe
+C:\Users\User\source\repos\Logn Form App\Logn Form App\bin\Debug\Logn Form App.pdb
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn Form App.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn Form App.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn_Form_App.Form1.resources
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn_Form_App.Menu.resources
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn_Form_App.Properties.Resources.resources
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn Form App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn Form App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn Form App.exe
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn Form App.pdb
+C:\Users\User\source\repos\Logn Form App\Logn Form App\obj\Debug\Logn_Form_App.MenuForAdmins.resources
